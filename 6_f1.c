@@ -9,7 +9,7 @@ int main ()
     printf("Digite suas tres notas: ");
     scanf("%f %f %f", &n1,&n2,&n3);
 
-    printf("Digite sua frequencia:");
+    printf("Digite sua frequencia: ");
     scanf("%d", &frequencia);
 
     media = (n1 + n2 + n3) / 3;
